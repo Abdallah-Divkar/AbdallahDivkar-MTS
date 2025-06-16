@@ -47,7 +47,7 @@ const mywork_data = [
         w_no:6,
         w_name:"MERN Stack Social Media Project - Vibeverse",
         w_img:project6_img,
-        url: "https://vibeverse-229.netlify.app/signin"
+        url: "https://vibeverse-229.netlify.app"
     },
 ]
  
