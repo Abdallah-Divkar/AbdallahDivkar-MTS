@@ -24,7 +24,7 @@ const Hero = () => {
         projects that reflect my dedication to building innovative
          solutions with technologies like Python, Java, and full-stack
           web tools. Feel free to explore, and reach out if you’d like
-           to connect!</p>
+          to connect!</p>
       <div className="hero-action">
         <div className="hero-connect"><AnchorLink className="anchor-link" offset={50} href="#contact">Connect with Me</AnchorLink></div>
         <div className="hero-resume">

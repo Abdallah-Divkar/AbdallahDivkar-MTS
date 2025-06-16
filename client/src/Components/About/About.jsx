@@ -25,7 +25,7 @@ const About = () => {
           <div className="about-para">
             <p>I am Abdallah Divkar, an aspiring software engineer with hands-on experience in programming, web development,
                and database concepts. Proficient in Python, C#, Java, and JavaScript, I am currently studying
-                Artificial Intelligence - Software Engineering Technology at Centennial College. I am passionate about developing efficient software solutions and eager to contribute my skills to innovative projects in a dynamic environment.</p>
+                Artificial Intelligence - Software Engineering Technology at Centennial College (Toronto, Canada). I am passionate about developing efficient software solutions and eager to contribute my skills to innovative projects in a dynamic environment.</p>
             
           </div>
           <div className="about-skills">
