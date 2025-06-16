@@ -7,7 +7,7 @@ Date: 27/9/2024
 import project1_img from '../assets/project-1.png'
 import project2_img from '../assets/project_2.png'
 import project3_img from '../assets/project_3.png'
-import project4_img from '../assets/project_4.jpg'
+import project4_img from '../assets/project_4.png'
 import project5_img from '../assets/project_5.png'
 import project6_img from '../assets/project_6.png'
 
@@ -20,8 +20,9 @@ const mywork_data = [
     },
     {
         w_no:2,
-        w_name:"Web design",
-        w_img:project2_img
+        w_name:"Toront Accident Severity Preedictor AI Grp Project",
+        w_img:project2_img,
+        url: "https://toronto-accident-predictor.netlify.app/"
     },
     {
         w_no:3,
@@ -31,18 +32,22 @@ const mywork_data = [
     },
     {
         w_no:4,
-        w_name:"Web design",
-        w_img:project4_img
+        w_name: "GrabNConvert - Python Youtube Downloader and Converter",
+        w_img:project4_img,
+        url: "https://github.com/Abdallah-Divkar/GrabNConvert.git"
+       
     },
     {
         w_no:5,
-        w_name:"Web design",
-        w_img:project5_img
+        w_name:"Astro Track PL/SQL Group Project",
+        w_img:project5_img,
+        url: "https://drive.google.com/file/d/1pDFRSDW6AQL9srFH4ktBzFWDJVHMxVqb/view?usp=sharing"
     },
     {
         w_no:6,
-        w_name:"Web design",
-        w_img:project6_img
+        w_name:"MERN Stack Social Media Project - Vibeverse",
+        w_img:project6_img,
+        url: "https://vibeverse-229.netlify.app/signin"
     },
 ]
  

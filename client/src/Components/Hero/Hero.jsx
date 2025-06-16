@@ -9,7 +9,7 @@ import "./Hero.css";
 import profile_img from "../../assets/profile_img.jpg"
 import underline from "../../assets/nav_underline.svg"
 import AnchorLink from "react-anchor-link-smooth-scroll";
-import resume from "../../assets/AbdallahDivkar-Resume_.pdf"
+import resume from "../../assets/AbdallahDivkar-Resume_Update-MTS.pdf"
 
 
 const Hero = () => {
