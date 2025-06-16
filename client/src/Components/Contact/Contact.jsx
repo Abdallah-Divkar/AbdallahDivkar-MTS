@@ -51,11 +51,12 @@ const Contact = () => {
                     <img src={[mail_icon]} alt="" /> <p>divkerabdallah@gmail.com</p>
                 </div>
                 <div className="contact-detail">
+                <img src={[call_icon]} alt="" /> <p>+1 (437) 955-5106</p>
                 <img src={[call_icon]} alt="" /> <p>+966 57 320 2943</p>
                 </div>
                 <div className="contact-detail">
                 <img src={[location_icon]} alt="" /> <p>Jeddah, Saudi Arabia</p>
-                <p> M1B 1B1</p>
+                <img src={[location_icon]} alt="" /> <p>Toronto, ON</p>
                 </div>
             </div>
         </div>
